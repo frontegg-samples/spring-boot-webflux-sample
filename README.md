@@ -3,6 +3,7 @@
 ## Overview
 This sample shows how to protect your Spring Boot - Webflux application routes using a custom security method and JWT utils.
 
+This sample is based on the repository: https://github.com/ard333/spring-boot-webflux-jjwt, with changes related to Keys and Custom method security
 ## Step-By-Step Guide
 Follow the steps below to validate tokens with Spring Boot and Webflux
 
